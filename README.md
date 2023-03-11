@@ -4,4 +4,5 @@ API gets all of these three parameters from request body. In case number of pred
 number of predictions(weeks): 2
 sales cycle(weeks): 16
 
-To start the project, please download node modules first.
+Before starting the project, please, install node modules first, using "npm install".
+To start the project, use "npm start".
